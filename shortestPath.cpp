@@ -2,7 +2,7 @@
 using namespace std;
 class Graph {
     int V;
-    vector<vector<int>> adj;
+    vector<vector<int>> adj;  // add a comment
 public:
     Graph(int V) {
         this->V = V;
